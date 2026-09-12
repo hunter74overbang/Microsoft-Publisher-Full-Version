@@ -237,4 +237,4 @@ This repository serves as the official landing page for Microsoft Publisher. The
 **Get the most recent version of Microsoft Publisher today!**
 
 ---
-**Last updated:** 2026-09-11 23:05:32 UTC
+**Last updated:** 2026-09-12 03:56:03 UTC
